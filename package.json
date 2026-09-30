@@ -1,0 +1,1 @@
+{"name":"vishesh-portfolio","version":"1.0.0","private":true,"scripts":{"dev":"python3 -m http.server 4173","build":"node -e \"console.log('Static portfolio ready')\""}}
